@@ -1,2 +1,2 @@
-# Practice----Git-and-Github
+# Practice-Git-and-Github
 Practicing git and github from course.
